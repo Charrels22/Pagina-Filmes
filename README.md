@@ -6,7 +6,7 @@ O ponto principal é consumir uma API de filmes lançandos recentemente e mostr�
 
 
 ## Instruções:
-Clique no Link abaixo para ter acesso a página. </br>
+Clique no botão abaixo para ter acesso a página. </br></br>
 <a href= "https://charrels22-makes-great-sites.netlify.app/">
     <img src= "./button_best-flix.png" />
 </a>
